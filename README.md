@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=Srijan-D&show_icons=true&theme=radical&hide=commits,prs,issues,contribs&hide_rank=true&hide_title=true)
 101 GitHub stars ⭐ and counting
+
 ![](https://komarev.com/ghpvc/?username=Srijan-D)
 <!--
 **Srijan-D/Srijan-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
