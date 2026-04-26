@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Srijan-D)
 
-102 GitHub stars ⭐ and counting
+101 GitHub stars ⭐ and counting
 <!--
 **Srijan-D/Srijan-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
